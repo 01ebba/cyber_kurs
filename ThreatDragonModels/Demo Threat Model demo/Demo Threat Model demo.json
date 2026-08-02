@@ -9,7 +9,7 @@
     "contributors": [],
     "diagrams": [
       {
-        "id": 1,
+        "id": 2,
         "title": "New CIA diagram",
         "diagramType": "CIA",
         "placeholder": "New CIA diagram description",
@@ -18,7 +18,7 @@
         "cells": []
       }
     ],
-    "diagramTop": 2,
+    "diagramTop": 3,
     "reviewer": "",
     "threatTop": 0
   },
